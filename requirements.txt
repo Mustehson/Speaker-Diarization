@@ -1,0 +1,6 @@
+numpy
+tqdm
+pydub
+faster-whisper
+scikit-learn
+git+https://github.com/pyannote/pyannote-audio
